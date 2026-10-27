@@ -1,6 +1,6 @@
 # Trương Quốc Thái
 
-![Ảnh đại diện](c:\Users\Adminz\Desktop\396253-1\anhbanthan.jpg)
+![Ảnh đại diện](QuocThaiDZ.png)
 
 Chào bạn, mình là Trương Quốc Thái, hiện là sinh viên năm 2 ngành Hệ Thống Thông Tin - Khoa Tin học, Trường Đại học Sư phạm, Đại học Huế. Mình yêu thích Kinh Doanh , chơi game và cũng rất thích lập trình ^^.
 ### Sở thích cá nhân
